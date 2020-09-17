@@ -13,3 +13,8 @@ target
 .classpath
 .settings
 .metadata
+
+# ignore idea files
+
+.idea
+learning.iml
